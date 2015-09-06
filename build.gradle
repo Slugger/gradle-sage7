@@ -1,7 +1,7 @@
 buildscript {
 	repositories {
 	  maven {
-		url "https://plugins.gradle.org/m2/"
+		url 'https://plugins.gradle.org/m2/'
 	  }
 	}
 	dependencies {
@@ -34,7 +34,7 @@ dependencies {
 }
 
 pluginBundle {
-	website = 'http://www.gradle.org/'
+	website = 'http://github.com/Slugger/gradle-sage7/'
 	vcsUrl = 'https://github.com/Slugger/gradle-sage7.git'
 	description = 'A plugin to assist with submitting SageTV v7 plugins.'
 	tags = ['sagetv', 'sage7', 'plugins']
