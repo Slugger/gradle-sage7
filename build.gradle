@@ -35,8 +35,8 @@ dependencies {
 
 pluginBundle {
 	website = 'http://www.gradle.org/'
-	vcsUrl = 'https://github.com/Slugger/sage'
-	description = 'Greetings from here!'
+	vcsUrl = 'https://github.com/Slugger/gradle-sage7.git'
+	description = 'A plugin to assist with submitting SageTV v7 plugins.'
 	tags = ['sagetv', 'sage7', 'plugins']
   
 	plugins {
